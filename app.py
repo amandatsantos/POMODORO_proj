@@ -49,7 +49,7 @@ class Pomodoro():
             if self.tempo_var() >self.tempo_maximo:
                 print('cabo a hora de sofreeeerrr\n hora de ver u videozin :)\n ')
                 os.system('pause')
-                os.system("start https://www.youtube.com/watch?v=c3Hc7ackSe0")
+                os.system("start https://...")
                 break
 
 
